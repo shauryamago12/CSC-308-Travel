@@ -24,4 +24,6 @@ And here is a mid range of an Amazon page, while it may seem very similar to wha
 ![Image of facebook ui prototype](https://i.pinimg.com/originals/5d/b0/87/5db0878f77fc9c44dc5b0aee3c532d17.jpg)
 
 
+
+Here is a link to our low fidelity ui prototype of our product
 https://www.figma.com/file/bCjy3f0dNlwiW40UZvqV74/Second-UI-Prototype?node-id=0%3A1
