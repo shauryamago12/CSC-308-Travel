@@ -6,7 +6,7 @@ Repository for CSC 308/309 project (BAKU app)
 # UI Prototype
 
 Reminder that this link will take you to our *low fidelity* ui prototype. 
-That this means is that major design decisions are not being made in this prototype, rather we seek to portray general layouts and functionality.
+This means that is that major design decisions are not being made in this prototype, rather we seek to portray general layouts and functionality.
 
 Some examples:
 These are examples of 3 different fidelity ranges for a prototype
