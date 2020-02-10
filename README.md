@@ -19,6 +19,6 @@ These are examples of 3 different fidelity ranges for a prototype
 Here is a link to our low fidelity ui prototype of our product
 https://www.figma.com/file/bCjy3f0dNlwiW40UZvqV74/Second-UI-Prototype?node-id=0%3A1
 
-#"UML" Diagram
+# "UML" Diagram
 Here is a link to view our UML mock up
 https://drive.google.com/file/d/1QrurgNlarZ7DURClib2AFWbeZYvt6axg/view?usp=sharing
