@@ -3,6 +3,7 @@ Repository for CSC 308/309 project (BAKU app)
 
 Team Members: Grant Matejka, Shreya Tumma, Abhishu Rawka, David Juliano
 
+
 # UI Prototype
 
 Reminder that this link will take you to our *low fidelity* ui prototype. 
