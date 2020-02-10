@@ -1,7 +1,7 @@
 # CSC-308-Travel
 Repository for CSC 308/309 project (BAKU app)
 
-Team Members: Grant Matejka, Shreya Tummaaa, Abhishu Rawka
+Team Members: Grant Matejka, Shreya Tummaaa, Abhishu Rawka, David Juliano
 
 # UI Prototype
 
